@@ -1,0 +1,1 @@
+The name of our database is 'social' and the rest of the tables are within the 'social.sql' file
